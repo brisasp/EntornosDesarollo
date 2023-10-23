@@ -1,0 +1,14 @@
+C:\Users\Vespertino\source\repos\GestionTareasBS\GestionTareasBS\bin\Debug\net6.0\GestionTareasBS.exe
+C:\Users\Vespertino\source\repos\GestionTareasBS\GestionTareasBS\bin\Debug\net6.0\GestionTareasBS.deps.json
+C:\Users\Vespertino\source\repos\GestionTareasBS\GestionTareasBS\bin\Debug\net6.0\GestionTareasBS.runtimeconfig.json
+C:\Users\Vespertino\source\repos\GestionTareasBS\GestionTareasBS\bin\Debug\net6.0\GestionTareasBS.dll
+C:\Users\Vespertino\source\repos\GestionTareasBS\GestionTareasBS\bin\Debug\net6.0\GestionTareasBS.pdb
+C:\Users\Vespertino\source\repos\GestionTareasBS\GestionTareasBS\obj\Debug\net6.0\GestionTareasBS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vespertino\source\repos\GestionTareasBS\GestionTareasBS\obj\Debug\net6.0\GestionTareasBS.AssemblyInfoInputs.cache
+C:\Users\Vespertino\source\repos\GestionTareasBS\GestionTareasBS\obj\Debug\net6.0\GestionTareasBS.AssemblyInfo.cs
+C:\Users\Vespertino\source\repos\GestionTareasBS\GestionTareasBS\obj\Debug\net6.0\GestionTareasBS.csproj.CoreCompileInputs.cache
+C:\Users\Vespertino\source\repos\GestionTareasBS\GestionTareasBS\obj\Debug\net6.0\GestionTareasBS.dll
+C:\Users\Vespertino\source\repos\GestionTareasBS\GestionTareasBS\obj\Debug\net6.0\refint\GestionTareasBS.dll
+C:\Users\Vespertino\source\repos\GestionTareasBS\GestionTareasBS\obj\Debug\net6.0\GestionTareasBS.pdb
+C:\Users\Vespertino\source\repos\GestionTareasBS\GestionTareasBS\obj\Debug\net6.0\GestionTareasBS.genruntimeconfig.cache
+C:\Users\Vespertino\source\repos\GestionTareasBS\GestionTareasBS\obj\Debug\net6.0\ref\GestionTareasBS.dll
